@@ -13,6 +13,7 @@ namespace tarea1ejercicio1
             Console.WriteLine("Son");
             Console.WriteLine("mensajes");
             Console.WriteLine("de prueba.");
+            Console.WriteLine("de prueba2222222222.");
 
 
         }
