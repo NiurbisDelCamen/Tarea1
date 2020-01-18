@@ -41,7 +41,19 @@ namespace tarea1ejercicio1
             double dolaresEuro = dolares * euro;
             Console.WriteLine("{0} dolares = {1} Euros", dolares, dolaresEuro);
 
-
+            Console.WriteLine("capitulo3");
+            Console.WriteLine("ejercicio1");
+            int numero;
+            Console.WriteLine("Numero entero: ");
+            numero = Convert.ToInt32(Console.ReadLine());
+            if ((numero % 2) == 0)
+            {
+                Console.WriteLine("El numero {0} es par", numero);
+            }
+            else
+            {
+                Console.WriteLine("El numero {0} es impar", numero);
+            }
         }
     }
 }

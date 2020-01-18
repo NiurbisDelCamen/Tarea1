@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea1ejercicio1", "tarea1ejercicio1.csproj", "{227F9F7A-28A6-4ED1-BB3F-540869F08514}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea1", "tarea1.csproj", "{227F9F7A-28A6-4ED1-BB3F-540869F08514}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
